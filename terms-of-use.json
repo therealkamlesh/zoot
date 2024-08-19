@@ -3,26 +3,26 @@
     {
       "title": "Introduction",
       "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.",
-      "description": "This section provides an overview of the terms and conditions of use for our website.",
-      "icon": "fa-info-circle"
+      "description": "This section provides an overview of the terms and conditions of use for our website."
+   
     },
     {
       "title": "Terms of Use",
       "content": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras justo odio, dapibus ac facilisis in, egestas eget quam.",
-      "description": "This section outlines the terms and conditions of use for our website, including user responsibilities and prohibited activities.",
-      "icon": "fa-lock"
+      "description": "This section outlines the terms and conditions of use for our website, including user responsibilities and prohibited activities."
+
     },
     {
       "title": "Disclaimer",
       "content": "Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod.",
-      "description": "This section provides a disclaimer of warranties and liabilities for our website.",
-      "icon": "fa-exclamation-triangle"
+      "description": "This section provides a disclaimer of warranties and liabilities for our website."
+
     },
     {
       "title": "Limitation of Liability",
       "content": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
-      "description": "This section outlines the limitations of our liability for damages or losses arising from the use of our website.",
-      "icon": "fa-shield"
+      "description": "This section outlines the limitations of our liability for damages or losses arising from the use of our website."
+
     }
   ]
 }
